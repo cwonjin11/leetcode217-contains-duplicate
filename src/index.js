@@ -11,3 +11,5 @@ var containsDuplicate = function(nums)  {
 
 }
 
+console.log(containsDuplicate(nums = [1,2,3,4]))
+console.log(containsDuplicate(nums = [1,2,3,4,1]))
